@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `jungwoo9`,
-      href: "https://github.com/jungwoo9/jungwoo9",
+      name: `food classifier`,
+      href: "https://huggingface.co/spaces/jungwoo9/foodvision_big",
     },
   ],
   // blog setting (required)
