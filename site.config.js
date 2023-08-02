@@ -9,7 +9,7 @@ const CONFIG = {
     linkedin: "jungwookoo",
     github: "jungwoo9",
     instagram: "",
-  },
+  }, 
   projects: [
     {
       name: `food classifier`,
